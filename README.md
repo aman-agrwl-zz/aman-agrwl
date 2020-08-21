@@ -28,22 +28,10 @@ This is the place where I spent my time mostly 🤣
 <br />
 <br />
 
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### StackOverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
-
+[<img align="left" alt="aman agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
+[<img align="left" alt="aman agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Agrwlaman)
 
 
 
