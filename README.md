@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 
+This is the place where I spent my time mostly 🤣
 
-<!--
-**aman-agrwl/aman-agrwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on something cool 😉
+🌱 I’m currently learning GO
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-agrwl&show_icons=true&theme=radical)](https://github.com/aman-agrwl/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aman-agrwl&repo=github-readme-stats)](https://github.com/aman-agrwl/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-agrwl)](https://github.com/aman-agrwl/github-readme-stats)
