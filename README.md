@@ -32,13 +32,13 @@ This is the place where I spent my time mostly 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
 
 
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-agrwl&show_icons=true)]
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-agrwl&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-agrwl)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-agrwl)
 
 
