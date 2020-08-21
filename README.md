@@ -1,9 +1,16 @@
-Hi there 
+Hi there,
+
 This is the place where I spent my time mostly 🤣
 
 🔭 I’m currently working on something cool 😉
 
 🌱 I’m currently learning GO
+
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-agrwl&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-agrwl)
+
 
 ### Languages and Tools:
 
@@ -22,23 +29,22 @@ This is the place where I spent my time mostly 🤣
 <br />
 
 
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-agrawal-1b11401b/)
 
 
 
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-agrwl&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-agrwl)
 
 
